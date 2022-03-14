@@ -1,9 +1,9 @@
 # Pyber_Analysis
 
-# Overview
+## Overview
 Using Python and knowledge of Pandas, I've created DataFrame of the ride-sharing data by city type for Pyber. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type.
 
-# Analysis
+## Analysis
 The analysis for Pyber was done for Rural, Suburban, and Urban areas. From the analysis, drivers in the urban areas make significantly less than suburban and rural area rides. However, in average. drivers in rural areas make more than the rides taken in suburban and rural areas
 
 - Rural: 125*55.49 = average $6936.25
@@ -12,7 +12,7 @@ The analysis for Pyber was done for Rural, Suburban, and Urban areas. From the a
 
 <img width="617" alt="Summary_DataFrame" src="https://user-images.githubusercontent.com/98790082/158102510-673fcb21-ab99-4be7-b574-91d2d964a5dc.png">
 
-# Conclusion 
+## Conclusion 
 Drivers in urban area can charge less because of two big reasons. 
  - They get significantly more rides compared to the rural and suburban areas due to population. (Demand and supply)
  - The proximity of destinations within the city is closer compared to rural and suburban areas
